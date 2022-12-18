@@ -91,7 +91,7 @@ function ProfilePage(props: Props) {
 
    return (
       <div style={styles.Prifile}>
-         Profile
+         Profile for test 2
          <div>name: {name}</div>
          <button onClick={() => o.f()}>this</button>
          <button onClick={() => o.f2()}>this2</button>
